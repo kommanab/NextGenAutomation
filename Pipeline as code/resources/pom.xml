@@ -10,7 +10,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonarqube.version>6.2</sonarqube.version>
+		<sonarqube.version>7.4</sonarqube.version>
 		<java.version>1.8</java.version>
 		<sonar.host.url>http://10.207.93.28:9000/</sonar.host.url>
 		<sonar.sources>/u02/app/ci/jenkins_home/workspace/Checkout@libs/DevOps/src/com/rocc/devops/KairosOrderHolder.java</sonar.sources>
